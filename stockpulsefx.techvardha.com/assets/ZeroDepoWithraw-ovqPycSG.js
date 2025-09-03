@@ -1,0 +1,11 @@
+import{c as a,j as e}from"./index-B1KGZ00m.js";/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const t=a("ChartCandlestick",[["path",{d:"M9 5v4",key:"14uxtq"}],["rect",{width:"4",height:"6",x:"7",y:"9",rx:"1",key:"f4fvz0"}],["path",{d:"M9 15v2",key:"r5rk32"}],["path",{d:"M17 3v2",key:"1l2re6"}],["rect",{width:"4",height:"8",x:"15",y:"5",rx:"1",key:"z38je5"}],["path",{d:"M17 13v3",key:"5l0wba"}],["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}]]);/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const d=a("Gauge",[["path",{d:"m12 14 4-4",key:"9kzdfg"}],["path",{d:"M3.34 19a10 10 0 1 1 17.32 0",key:"19p75a"}]]),r="svgs/zero_deposit_withdrawal.svg",n=()=>e.jsx(e.Fragment,{children:e.jsx("section",{className:"py-24",children:e.jsx("div",{className:"container",children:e.jsx("div",{className:"rounded-3xl bg-background/60 border border-border p-4 md:p-8 lg:p-12 shadow-[0_0_24px_rgba(255,0,229,0.08)]","data-aos":"fade-up","data-aos-duration":"900",children:e.jsxs("div",{className:"grid lg:grid-cols-2 gap-12 items-center",children:[e.jsx("div",{className:"flex justify-center",children:e.jsx("img",{src:r,alt:"Zero Deposit and Withdrawal Charges",className:"w-[440px] max-w-full drop-shadow-[0_0_35px_rgba(0,229,255,0.15)]"})}),e.jsxs("div",{className:"relative rounded-2xl bg-card border border-border p-8 lg:p-10",children:[e.jsxs("h3",{className:"text-2xl sm:text-3xl md:text-5xl font-bold leading-tight mb-4",children:[e.jsx("span",{className:"text-foreground",children:"Zero Deposit & "}),e.jsx("span",{className:"bg-gradient-to-r from-primary to-[#FF00E5] bg-clip-text text-transparent",children:"Withdrawal Charges!"})]}),e.jsx("p",{className:"text-base sm:text-lg text-muted-foreground leading-relaxed",children:"Whether you're trading in INR or USD, enjoy zero charges on currency conversion, deposits, and withdrawals. Trade confidently, knowing there are no hidden charges when managing your funds."})]})]})})})})});export{t as C,d as G,n as Z};
