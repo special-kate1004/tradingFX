@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "stockpulsefx.techvardha.com/**/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/stockpulsefx.techvardha.com/index.html"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "/stockpulsefx.techvardha.com/assets/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/stockpulsefx.techvardha.com/$1"
+    }
+  ],
+  "outputDirectory": "stockpulsefx.techvardha.com"
+}

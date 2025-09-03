@@ -1,0 +1,19 @@
+{
+  "name": "stockpulsefx",
+  "version": "1.0.0",
+  "description": "Advanced Trading Platform",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - no start required'"
+  },
+  "keywords": [
+    "trading",
+    "platform",
+    "stocks",
+    "forex",
+    "crypto"
+  ],
+  "author": "Lovable",
+  "license": "MIT"
+}
